@@ -33,13 +33,21 @@ The input transformation phase resulted in the conversion of the entire article 
 
 Each of these vectors was then used to perform a train test split with the test size being 35% of available samples. 
 The scope of the experiment was limited to the these classifiers:
+
 a. Random Forest
+
 b. Passive Aggressive Classifier
+
 c. Linear SVC
+
 d. RBF SVC
+
 e. Decision Tree
+
 f. Multinomial Naive Bayes
+
 g. Complement Naive Bayes
+
 h. Neural Network (MLP)
 
 
